@@ -6,3 +6,7 @@ Difference between the express and http package in the context of routing
 Express makes it easier to organize our application into the MVC architecture
 
 It's a conventional way to start a project by constructing a new file named app.js
+
+Representational State Transfer => REST => It's a sort of architecture followed while writing an API in order to make it smoother
+
+JSON format => easy to implement and understand for both humans and a computers => just like JavaScript
