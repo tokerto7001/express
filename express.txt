@@ -1,0 +1,8 @@
+Express is a minimal node.js framework, a higher level of abstraction => it is based above the node js
+Most popular node.js framework => Written 100% in node.js
+Express contains a very robust set of features: complex routing, easier handling of requests and responses, middleware, server-side rendering
+Express allows for rapid development of node.js applications: We don't have to re-invent the wheel
+Difference between the express and http package in the context of routing
+Express makes it easier to organize our application into the MVC architecture
+
+It's a conventional way to start a project by constructing a new file named app.js
